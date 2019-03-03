@@ -9,11 +9,14 @@ module.exports = {
 		})
 	],
 	SASS: [
-		'node_modules/bootstrap/scss'
+		'node_modules/bootstrap/scss',
+		'node_modules/uikit/src/scss'
 	],
 	JS: [
 		//	JQUERY
-		'node_modules/jquery/dist/jquery.js'
+		// 'node_modules/jquery/dist/jquery.js'
+		'node_modules/uikit/dist/js/uikit.js',
+		'node_modules/uikit/dist/js/uikit-icons.js'
 		// 'node_modules/svgxuse/svgxuse.js' //иконки для загрузки из внешнего источника
 	],
 

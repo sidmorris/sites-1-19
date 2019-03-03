@@ -27,12 +27,13 @@
     "gulp-rename": "^1.2.2",
     "gulp-sass": "~4.0.1",
     "gulp-sass-glob": "^1.0.9",
-    "gulp-sourcemaps": "~2.6.4",
+    "gulp-sourcemaps": "^2.6.5",
     "gulp-uglify-es": "^1.0.1",
     "postcss": "^7.0.14",
     "postcss-cssnext": "^3.1.0",
     "postcss-easing-gradients": "^3.0.1",
     "postcss-short": "^5.0.0",
+    "uikit": "^3.0.3",
     "yargs": "^13.2.1"
   },
   "dependencies": {
